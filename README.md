@@ -1,0 +1,2 @@
+# krzysiek
+Repetytorium z technikum
